@@ -3,7 +3,7 @@ export default{
     name:'comment',
     title:'Comment',
     type: 'document',
-    field:[
+    fields:[
         {
             name:'postedBy',
             title:'Posted By',

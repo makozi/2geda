@@ -1,10 +1,10 @@
-import { title } from "process";
+ 
 
 export default{
     name:'user',
     title:'User',
     type: 'document',
-    field:[
+    fields:[
         {
             name:'userName',
             title:'User Name',
